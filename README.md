@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="#">Shubham</a> 👋</h1>
-<h3 align="center">Associate Cloud Engineer | AWS Certified | Software Developer in Progress</h3>
+<h3 align="center">Site Reliability Engineer | AWS Certified | Software Developer in Progress</h3>
 
 ---
 
@@ -13,26 +13,22 @@
 ---
 
 ## 🌟 About Me
-I'm an **Associate Cloud Engineer** with **two years of experience** in **AWS cloud**, specializing in cloud infrastructure and automation tools like Kubernetes, Terraform, and Ansible. I have a strong interest in **software development** and am currently honing my skills in **Data Structures and Algorithms (DSA) using Java**.
-
-I’m passionate about integrating cloud technologies with software development to build efficient and scalable systems. I’ve also earned my **AWS Cloud Practitioner** certification to deepen my cloud expertise.
+Highly skilled **Site Reliablity Engineer** with 3+ years of experience in AWS Cloud and DevOps practices. Adept at automating infrastructure, ensuring system reliability, and collaborating with cross-functional teams to optimize software delivery pipelines. Proficient in Kubernetes, Terraform, Ansible, Docker, and scripting languages such as Python and Bash. Passionate about improving system availability and stability through Site Reliability Engineering (SRE) best practices.
 
 ---
 
 ### 💼 My Skills:
-- **Cloud Platforms**: AWS
-- **DevOps & Automation**: Kubernetes | Terraform | Ansible | Docker
-- **Programming**: Python | Java | JavaScript | Shell Scripting | SQL
-- **Web Development**: HTML | CSS | JavaScript
-- **Version Control**: Git
-- **Operating Systems**: Linux
+-**Programming Languages**: JAVA, Python
+- **Cloud Technologies**: AWS (EC2, S3, Lambda, RDS, Cloud Watch, IAM, SNS, SQS)
+- **Containerization and Orchestration**: Kubernetes | Docker
+- **Configuration Management**: Ansible
+- **Version Control and CI/CD**: Git, Jenkins
+- **Infrastructure as Code**: Terraform
+- **Storage Syatems**: File systems, Storage Protocols | Backup Applications
+- **Monitoring and Incident Management**: CloudWatch | Prometheus | Grafana
+- **Scripting and Automation**: Python | Bash | Shell Scripting
+- **Operating System**: Linux (Ubuntu)
 
----
-
-## 📚 Current Learning
-I’m currently diving deeper into **Software Development**, focusing on **Data Structures and Algorithms** in **Java** to strengthen my problem-solving skills.
-
----
 
 ## 🚀 My GitHub Stats
 <p align="center">
@@ -50,6 +46,6 @@ I’m currently diving deeper into **Software Development**, focusing on **Data 
 
 ## 🌐 Let's Connect!
 - www.linkedin.com/in/kushubham10
-- https://stackoverflow.com/users/27555671/shubham
+- https://stackoverflow.com/users/27555671/shubham  
 
 Feel free to reach out if you want to collaborate or discuss cloud engineering and software development!
